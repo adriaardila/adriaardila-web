@@ -1,0 +1,8 @@
+baseURL = 'https://adriaardila.com'
+languageCode = 'en-us'
+title = 'Adrià Ardila - Dev Blog'
+theme = "console"
+
+[params]
+  defaultTheme = "dark"
+  ShowFullTextinRSS = true
