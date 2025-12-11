@@ -6,6 +6,28 @@
     <description>Recent content in Tags on Adrià Ardila - Dev Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career</title>
+      <link>http://localhost:1313/tags/career/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mindset</title>
+      <link>http://localhost:1313/tags/mindset/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mindset/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Powerlifting</title>
+      <link>http://localhost:1313/tags/powerlifting/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/powerlifting/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

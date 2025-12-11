@@ -11,7 +11,21 @@
     
         
         <url>
+            <loc>http://localhost:1313/tags/career/</loc>
+            <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>http://localhost:1313/posts/heavy-lifting-discipline/</loc>
+            <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/mindset/</loc>
             <lastmod>2025-12-11T00:00:00+00:00</lastmod>
         </url>
         
@@ -25,13 +39,21 @@
     
         
         <url>
-            <loc>http://localhost:1313/categories/</loc>
+            <loc>http://localhost:1313/tags/powerlifting/</loc>
+            <lastmod>2025-12-11T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:1313/tags/</loc>
+            <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/categories/</loc>
         </url>
         
     

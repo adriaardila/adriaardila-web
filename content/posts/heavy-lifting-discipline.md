@@ -41,3 +41,5 @@ My background in sport taught me to look at the metrics first and leave the ego 
 Even though I haven't competed in almost 2 years, the discipline remains. 
 
 Whether I am training or coding, the satisfaction comes from the same place: tangible, measurable progress.
+
+{{< img-small src="/images/dl_290kg.png" width="400px" caption="Fig 1: Tangible progress." >}}

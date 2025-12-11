@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3558ee47-60e6-4ce3-add8-301b339a74a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/img-small.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dl_290kg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/heavy-lifting-discipline.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/heavy-lifting-discipline.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/heavy-lifting-discipline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/heavy-lifting-discipline/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/career/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/career/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/career/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/career/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/mindset/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/mindset/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/mindset/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/mindset/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/powerlifting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/powerlifting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/powerlifting/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/powerlifting/index.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/wiin/adriaardila-web&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/wiin/adriaardila-web/static/images",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765476019778</updated>
-      <workItem from="1765476020918" duration="7638000" />
+      <workItem from="1765476020918" duration="8741000" />
     </task>
     <servers />
   </component>
