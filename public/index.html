@@ -69,6 +69,17 @@
     
         <div class="post">
             <p>
+                <div class="date">Jan 21, 2026</div>
+                <h1><a href="http://localhost:1313/posts/sys-audit-reflection/" title="Reflecting on Python&#39;s Event Loop and sys.audit">Reflecting on Python&#39;s Event Loop and sys.audit</a></h1>
+                <p><strong>Note:</strong> <em>I originally published a deep technical dive on this topic for the Fever Engineering blog. You can read the full article <a href="https://medium.com/fever-engineering/unblocking-the-python-event-loop-how-sys-audit-saved-our-latency-f7dd77b2539b" target="_blank" rel="noopener">on Medium</a> .</em></p>
+<hr>
+<h3 id="the-why-behind-the-code">The &ldquo;Why&rdquo; Behind the Code</h3> <p>If you work with Python’s <code>asyncio</code> at scale, you know the specific kind of anxiety that comes with &ldquo;random&rdquo; latency spikes. We faced random 200ms freezes that left absolutely no trace in the logs.</p>
+<p>At first, we had a simple log that would detect &ldquo;slow&rdquo; tasks, but we had no idea <em>why</em> they were slow. We had no stack trace, and looking for the issue in a massive codebase felt impossible.</p>
+            </p>
+        </div>
+    
+        <div class="post">
+            <p>
                 <div class="date">Dec 11, 2025</div>
                 <h1><a href="http://localhost:1313/posts/heavy-lifting-discipline/" title="Heavy Lifting: The Physics of Discipline">Heavy Lifting: The Physics of Discipline</a></h1>
                 <p>Before I was optimizing backend latency, I was optimizing leverage.</p>

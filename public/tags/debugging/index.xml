@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debugging on Adrià Ardila - Dev Blog</title>
+    <link>http://localhost:1313/tags/debugging/</link>
+    <description>Recent content in Debugging on Adrià Ardila - Dev Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2023 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/debugging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflecting on Python&#39;s Event Loop and sys.audit</title>
+      <link>http://localhost:1313/posts/sys-audit-reflection/</link>
+      <pubDate>Fri, 27 Oct 2023 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/sys-audit-reflection/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;em&gt;I originally published a deep technical dive on this topic for the Fever Engineering blog. You can read the full article &lt;a href=&#34;https://medium.com/fever-engineering/unblocking-the-python-event-loop-how-sys-audit-saved-our-latency-YOUR-REAL-LINK-HERE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Medium&lt;/a&gt; .&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-why-behind-the-code&#34;&gt;The &amp;ldquo;Why&amp;rdquo; Behind the Code&lt;/h3&gt; &lt;p&gt;If you work with Python’s &lt;code&gt;asyncio&lt;/code&gt; at scale, you know the specific kind of anxiety that comes with &amp;ldquo;random&amp;rdquo; latency spikes. We had a ghost in our machine at Fever—200ms freezes that left absolutely no trace in the logs.&lt;/p&gt;&#xA;&lt;p&gt;I spent days staring at CPU charts that looked perfectly normal, knowing that somewhere, a single blocking &lt;code&gt;time.sleep&lt;/code&gt; or file read was freezing the entire event loop.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

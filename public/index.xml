@@ -6,8 +6,15 @@
     <description>Recent content on Adrià Ardila - Dev Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 10:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflecting on Python&#39;s Event Loop and sys.audit</title>
+      <link>http://localhost:1313/posts/sys-audit-reflection/</link>
+      <pubDate>Wed, 21 Jan 2026 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/sys-audit-reflection/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;em&gt;I originally published a deep technical dive on this topic for the Fever Engineering blog. You can read the full article &lt;a href=&#34;https://medium.com/fever-engineering/unblocking-the-python-event-loop-how-sys-audit-saved-our-latency-f7dd77b2539b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on Medium&lt;/a&gt; .&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-why-behind-the-code&#34;&gt;The &amp;ldquo;Why&amp;rdquo; Behind the Code&lt;/h3&gt; &lt;p&gt;If you work with Python’s &lt;code&gt;asyncio&lt;/code&gt; at scale, you know the specific kind of anxiety that comes with &amp;ldquo;random&amp;rdquo; latency spikes. We faced random 200ms freezes that left absolutely no trace in the logs.&lt;/p&gt;&#xA;&lt;p&gt;At first, we had a simple log that would detect &amp;ldquo;slow&amp;rdquo; tasks, but we had no idea &lt;em&gt;why&lt;/em&gt; they were slow. We had no stack trace, and looking for the issue in a massive codebase felt impossible.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Heavy Lifting: The Physics of Discipline</title>
       <link>http://localhost:1313/posts/heavy-lifting-discipline/</link>
